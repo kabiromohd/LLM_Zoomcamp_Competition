@@ -13,4 +13,4 @@ The goal of the competition is to solve these problems with or without LLMs. Sol
 ## Data
 Data for the competition is provided [here](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/data)
 
-For details about the approach check to solution checkout the notebook in the repo.
+For details about the approach to solution checkout the notebook in the repo.

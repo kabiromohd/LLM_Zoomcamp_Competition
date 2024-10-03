@@ -11,6 +11,6 @@ Each problem has been translated to English using GPT-4, and additionally provid
 The goal of the competition is to solve these problems with or without LLMs. Solving the problems by hand is not permitted.
 
 ## Data
-Data for the competition is provide [here](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/data)
+Data for the competition is provided [here](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/data)
 
-For details on the approach check the notebook in the repo.
+For details about the approach check to solution checkout the notebook in the repo.

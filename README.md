@@ -1,4 +1,6 @@
-# LLM_Zoomcamp_Competition - 7th position solution
+# LLM_Zoomcamp_Competition
+
+## 7th Place competition solution
 
 ## Overview
 
